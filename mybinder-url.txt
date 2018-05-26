@@ -1,0 +1,3 @@
+https://mybinder.org/v2/gh/iceworlder/jupyter_notebook/master?filepath=pybitshares.ipynb
+
+https://mybinder.org/v2/gh/iceworlder/jupyter_notebook/master?urlpath=lab/tree/pybitshares.ipynb

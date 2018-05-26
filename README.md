@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/iceworlder/jupyter_notebook/master?filepath=pybitshares.ipynb)
